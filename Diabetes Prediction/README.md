@@ -29,6 +29,3 @@ The dataset used is the **Pima Indians Diabetes Dataset**, which contains medica
 - **Model Used:** Support Vector Machine (SVM)
 - **Evaluation Metrics:** Accuracy, Confusion Matrix, Precision, Recall, F1-Score
 
-## License
-
-This project is open for educational use.
